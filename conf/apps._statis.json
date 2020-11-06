@@ -1,0 +1,127 @@
+{
+  "带前端注释的配置文件": "端口规则： 一般页面8000-8009;mgek服务 8010-8019;jj类服务 8020-8030",
+  "app_jjservice": {
+    "App_id":      "app_jjservice",
+    "App_name":    "JJService",
+    "App_code":    "jjservice",
+    "App_des":     "服务管理平台 For Renj.io",
+    "App_version": "1.7",
+    "App_build":   "build2020.10.15",
+    "App_port":    8020,
+    "App_dev":     true
+  },
+  // 前端 8021
+  "app_jjgo": {
+    "App_id":      "app_jjgo",
+    "App_name":    "JJGo",
+    "App_code":    "jjgo",
+    "App_des":     "JJ Restful API接口",
+    "App_version": "1.0",
+    "App_build":   "build2020.9.30",
+    "App_port":    8022,
+    "App_dev":     false,
+  },
+  // 前端8024
+  "app_jjbox": {
+    "App_id":      "app_jjbox",
+    "App_name":    "JJBox",
+    "App_code":    "jjbox",
+    "App_des":     "在线云盘",
+    "App_version": "1.0",
+    "App_build":   "build2020.9.30",
+    "App_port":    8025,
+    "App_dev":     false
+  },
+  "app_jjmail": {
+    "App_id":      "app_jjmail",
+    "App_name":    "Auto Mail Service",
+    "App_code":    "jjmail",
+    "App_des":     "自动化邮件订阅服务",
+    "App_version": "1.5",
+    "App_build":   "build2020.10.30",
+    "App_port":    8026,
+    "App_dev":     true
+  },
+  "app_mysite": {
+    "App_id":      "app_mysite",
+    "App_name":    "Renj.io",
+    "App_code":    "mysite",
+    "App_des":     "我的网站主页",
+    "App_version": "4.2",
+    "App_build":   "build2020.9.26",
+    "App_port":    8000,
+    "App_dev":     true
+  },
+  "app_blog": {
+    "App_id":      "app_blog",
+    "App_name":    "Vue Blog",
+    "App_code":    "blog",
+    "App_des":     "前后端分离设计的Vue轻量博客",
+    "App_version": "1.23",
+    "App_build":   "build2020.8.5",
+    "App_port":    8001,
+    "App_dev":     true
+  },
+  // 前端8003
+  "app_mgek": {
+    "App_id":      "app_mgek",
+    "App_name":    "Mgek APP",
+    "App_code":    "mgek",
+    "App_des":     "Mgek项目",
+    "App_version": "4.11",
+    "App_build":   "build2020.9.9",
+    "App_port":    8010,
+    "App_dev":     true
+  },
+  "app_mgekfile": {
+    "App_id":      "app_mgekfile",
+    "App_name":    "Mgek File",
+    "App_code":    "mgekfile",
+    "App_des":     "Mgek缓存服务",
+    "App_version": "1.3",
+    "App_build":   "build2020.4.20",
+    "App_port":    8011,
+    "App_dev":     true
+  },
+  "app_mgekdoc": {
+    "App_id":      "app_mgekdoc",
+    "App_name":    "Mgek Doc",
+    "App_code":    "mgekdoc",
+    "App_des":     "Mgek在线文档",
+    "App_version": "2.4",
+    "App_build":   "build2020.8.20",
+    "App_port":    8010,
+    "App_dev":     true
+  },
+  "app_mgekcloud": {
+    "App_id":      "app_mgekcloud",
+    "App_name":    "Cloud Service",
+    "App_code":    "mgekcloud",
+    "App_des":     "Mgek云服务",
+    "App_version": "2.4",
+    "App_build":   "build2020.4.2",
+    "App_port":    8012,
+    "App_dev":     true
+  },
+  "app_holding": {
+    "App_id":      "app_holding",
+    "App_name":    "Holding Page",
+    "App_code":    "holding",
+    "App_des":     "维护页面",
+    "App_version": "1.5",
+    "App_build":   "build2020.1.10",
+    "App_port":    8009,
+    "App_dev":     true
+  },
+  "app_resume": {
+    "App_id":      "app_resume",
+    "App_name":    "Personal Resume",
+    "App_code":    "resume",
+    "App_des":     "个人简历",
+    "App_version": "1.2",
+    "App_build":   "build2020.10.2",
+    "App_port":    8004,
+    "App_dev":     true
+  }
+
+}

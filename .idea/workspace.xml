@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="ea6da4bb-093d-4566-a2e5-01123528a70c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Go File" />
+        <option value="Bash File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="D:\Go" />
+  <component name="ProjectId" id="1heNb2Rd57uzjxq8RGEjJwvnCeJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="configurable.Global.GOPATH.is.expanded" value="true" />
+    <property name="configurable.Module.GOPATH.is.expanded" value="false" />
+    <property name="configurable.Project.GOPATH.is.expanded" value="true" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src" />
+    <property name="settings.editor.selected.configurable" value="go.sdk" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\Goproject\src\jjservice\src" />
+      <recent name="E:\Goproject\src\jjservice\shell\shell_old" />
+      <recent name="E:\Goproject\src\jjservice\webapp\static" />
+      <recent name="E:\Goproject\src\jjservice\webapp" />
+      <recent name="E:\Goproject\src\jjservice\staticfile" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\Goproject\src\jjservice" />
+      <recent name="E:\Goproject\src\jjservice\src" />
+      <recent name="E:\Goproject\src\jjservice\shell\status" />
+      <recent name="E:\Goproject\src\jjservice\shell\start" />
+      <recent name="E:\Goproject\src\jjservice\shell\del" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Go Build.go build jjservice/src">
+    <configuration name="go build jjctl.go" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jjservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="FILE" />
+      <filePath value="$PROJECT_DIR$/jjctl.go" />
+      <package value="jjservice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jjservice" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jjservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/jjservice.go" />
+      <package value="jjservice" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go build jjservice/src" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="jjservice" />
+      <working_directory value="$PROJECT_DIR$/" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/src/jjservice.go" />
+      <package value="jjservice/src" />
+      <directory value="$PROJECT_DIR$/" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build jjservice/src" />
+        <item itemvalue="Go Build.go build jjctl.go" />
+        <item itemvalue="Go Build.go build jjservice" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="70" key="#Notifications" timestamp="1601038781981">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="70" key="#Notifications/0.0.1536.824@0.0.1536.824" timestamp="1601038781981" />
+    <state x="639" y="289" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1602002970296">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="479" y="214" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1536.824@0.0.1536.824" timestamp="1601054840402" />
+    <state x="639" y="289" key="#com.intellij.fileTypes.FileTypeChooser/0.0.2048.1112@0.0.2048.1112" timestamp="1602002970296" />
+    <state x="496" y="247" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1601038885679">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="247" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.0.1536.824@0.0.1536.824" timestamp="1601038885679" />
+    <state x="713" y="172" key="#go_build_jjservice/src" timestamp="1602693962754">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="713" y="172" key="#go_build_jjservice/src/0.0.2048.1112@0.0.2048.1112" timestamp="1602693962754" />
+    <state width="2005" height="307" key="GridCell.Tab.0.bottom" timestamp="1604220575979">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1601131939682" />
+    <state width="2005" height="307" key="GridCell.Tab.0.bottom/0.0.2048.1112@0.0.2048.1112" timestamp="1604220575979" />
+    <state width="2005" height="307" key="GridCell.Tab.0.center" timestamp="1604220575978">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1601131939682" />
+    <state width="2005" height="307" key="GridCell.Tab.0.center/0.0.2048.1112@0.0.2048.1112" timestamp="1604220575978" />
+    <state width="2005" height="307" key="GridCell.Tab.0.left" timestamp="1604220575978">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1601131939682" />
+    <state width="2005" height="307" key="GridCell.Tab.0.left/0.0.2048.1112@0.0.2048.1112" timestamp="1604220575978" />
+    <state width="2005" height="307" key="GridCell.Tab.0.right" timestamp="1604220575978">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state width="1493" height="197" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1601131939682" />
+    <state width="2005" height="307" key="GridCell.Tab.0.right/0.0.2048.1112@0.0.2048.1112" timestamp="1604220575978" />
+    <state x="517" y="101" key="SettingsEditor" timestamp="1603208035022">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="388" y="75" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1601047906318" />
+    <state x="517" y="101" key="SettingsEditor/0.0.2048.1112@0.0.2048.1112" timestamp="1603208035022" />
+    <state x="575" y="196" width="896" height="915" key="search.everywhere.popup" timestamp="1601399084377">
+      <screen x="0" y="0" width="2048" height="1112" />
+    </state>
+    <state x="431" y="145" width="672" height="678" key="search.everywhere.popup/0.0.1536.824@0.0.1536.824" timestamp="1601130182227" />
+    <state x="575" y="196" width="896" height="915" key="search.everywhere.popup/0.0.2048.1112@0.0.2048.1112" timestamp="1601399084377" />
+  </component>
+</project>
