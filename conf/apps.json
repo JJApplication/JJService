@@ -44,8 +44,8 @@
     "App_name":    "Renj.io",
     "App_code":    "mysite",
     "App_des":     "我的网站主页",
-    "App_version": "4.2",
-    "App_build":   "build2020.9.26",
+    "App_version": "4.3",
+    "App_build":   "build2021.2.22",
     "App_port":    10000,
     "App_dev":     true
   },
