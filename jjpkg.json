@@ -1,0 +1,19 @@
+{
+  "compile_entry": "src/jjservice.go",
+  "app_info": {
+    "name": "jjservice",
+    "id": "app_jjservice",
+    "version": "2.1",
+    "description": "lite service that manage all renj service"
+  },
+  "workdir": {
+    "root": "/home/apps",
+    "log": "."
+  },
+  "config": {
+    "port": 10011
+  },
+  "cmd": {
+    "start": "./app_jjservice"
+  }
+}
