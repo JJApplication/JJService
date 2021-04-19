@@ -4,8 +4,8 @@
     "App_name":    "JJService",
     "App_code":    "jjservice",
     "App_des":     "服务管理平台 For Renj.io",
-    "App_version": "2.1",
-    "App_build":   "build2021.2.22",
+    "App_version": "3.1",
+    "App_build":   "build2021.4.20",
     "App_port":    10010,
     "App_dev":     true
   },
@@ -54,8 +54,8 @@
     "App_name":    "Vue Blog",
     "App_code":    "blog",
     "App_des":     "前后端分离设计的Vue轻量博客",
-    "App_version": "1.23",
-    "App_build":   "build2020.8.5",
+    "App_version": "4.3",
+    "App_build":   "build2021.4.15",
     "App_port":    10002,
     "App_dev":     true
   },

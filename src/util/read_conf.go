@@ -28,8 +28,14 @@ func ReadConf() (model.Configs, error) {
 	if pathErr != nil {
 		return model.Configs{}, errors.New("get config failed")
 	}
-	iniPath := cwdPath + "/conf/development.ini"
-	// iniPath := cwdPath + "/conf/production.ini"
+	var iniPath string
+	dev := os.Getenv("Develop")
+	if dev == "True" || dev == "1" {
+		iniPath = cwdPath + "/conf/development.ini"
+	}else {
+		iniPath = cwdPath + "/conf/production.ini"
+	}
+
 	cfg, err := ini.Load(iniPath)
 	if err != nil {
 		// os.Exit(1)
